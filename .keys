@@ -1,0 +1,30 @@
+.           leader key
+Ctrl-]      jump to tag definition
+Ctrl-[      show references
+Ctrl-t      jump up tag stack
+F1          rename symbol
+K           pop-up help on symbol under cursor
+<leader>t   open terminal
+Ctrl-d      exit terminal
+Ctrl-g      toggle file tree
+<leader>o   toggle current buffer tag outline
+Ctrl-c      close preview window
+Shift-p     open buffers fuzzy search
+Shift-o     open buffer tags fuzzy search
+t           open tags fuzzy search
+Ctrl-p      open file fuzzy search
+f           open text fuzzy search in current buffer 
+<leader>g   open commits fuzzy search
+<leader>w   toggle quickfix window
+F2          test nearest
+F3          test file
+F4          test suite
+F5          test last
+F8          open new termial in floating window
+F9          previous terminak
+F10         next terminal
+F12         toggle terminal
+Ctrl-n      next in autocomplete box
+Ctrl-p      previous in autocomplete box
+
+
